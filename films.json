@@ -1,4 +1,7 @@
 {
   "What We Do in the Shadows":{"actors":{"Viago":"Taika Waititi","Vladislav":"Jemaine Clement"},"country":"New Zealand","director":"Taika Waititi","producer":"Emma Bartlett","screenwriter":"Taika Waititi","studio":"Defender films, Two canoes pictures","year":2014},
-  "Thor: Ragnarok":{"actors":{"Thor":"Chris Hemsworth","Loki":"Tom Hiddleston", "Hela": "Cate Blanchett"},"country":"USA, Australia","director":"Taika Waititi","producer":"Victoria Alonso","screenwriter":"Eric Pirson","studio":"Marvel","year":2017}
+  "Thor: Ragnarok":{"actors":{"Thor":"Chris Hemsworth","Loki":"Tom Hiddleston", "Hela": "Cate Blanchett", "Korg":"Taika Waititi"},"country":"USA, Australia","director":"Taika Waititi","producer":"Victoria Alonso","screenwriter":"Eric Pirson","studio":"Marvel","year":2017},
+  "Men in Black International":{"actors":{"Agent H":"Chris Hemsworth","Agent M":"Tessa Thompson", "Riza": "Rebecca Ferguson"},"country":"USA, China","director":"F.Gery Gray","producer":"David Bobber","screenwriter":"Mat Halloway","studio":"Unknown","year":2019},
+  "Free Guy":{"actors":{"Guy":"Ryan Reynolds","Millie":"Jodie Comer", "Antwan": "Taika Waititi"},"country":"USA, Canada","director":"Shon Levy","producer":"Grag Berlanty","screenwriter":"Mat Libermann","studio":"Unknown","year":2021},
+  "Deadpool and Korg React":{"actors":{"Deadpool":"Ryan Reynolds","Korg":"Taika Waititi"},"country":"USA","director":"Unknown","producer":"Brayan Chappek","screenwriter":"Unknown","studio":"Unknown","year":2021}
 }
